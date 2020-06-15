@@ -34,3 +34,6 @@ answer(chrome,"apple.small")
 
 #7 Select the small oranges
 answer(chrome,"orange.small")
+
+#8 Select the small oranges in the bentos
+answer(chrome,"bento orange.small")
