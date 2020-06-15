@@ -19,3 +19,6 @@ answer(chrome, "plate")
 
 #2 Select the bento boxes
 answer(chrome, "bento")
+
+#3 Select the fancy plate
+answer(chrome, "#fancy")
