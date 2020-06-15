@@ -46,3 +46,6 @@ answer(chrome,"*")
 
 #11 Select everything on a plate
 answer(chrome,"plate *")
+
+#12 Select every apple that's next to a plate
+answer(chrome,"plate + apple")
