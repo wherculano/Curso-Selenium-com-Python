@@ -25,3 +25,6 @@ answer(chrome, "#fancy")
 
 #4 Select the apple on the plate
 answer("plate apple")
+
+#5 Select the pickle on the fancy plate
+answer(chrome,"#fancy pickle" )
