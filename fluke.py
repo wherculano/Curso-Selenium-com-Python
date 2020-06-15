@@ -37,3 +37,6 @@ answer(chrome,"orange.small")
 
 #8 Select the small oranges in the bentos
 answer(chrome,"bento orange.small")
+
+#9 Select all the plates and bentos
+answer(chrome,"plate, bento")
