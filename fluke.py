@@ -43,3 +43,6 @@ answer(chrome,"plate, bento")
 
 #10 Select all the things!
 answer(chrome,"*")
+
+#11 Select everything on a plate
+answer(chrome,"plate *")
