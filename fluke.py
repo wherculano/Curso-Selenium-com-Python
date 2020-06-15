@@ -31,3 +31,6 @@ answer(chrome,"#fancy pickle" )
 
 #6 Select the small apples
 answer(chrome,"apple.small")
+
+#7 Select the small oranges
+answer(chrome,"orange.small")
