@@ -22,3 +22,6 @@ answer(chrome, "bento")
 
 #3 Select the fancy plate
 answer(chrome, "#fancy")
+
+#4 Select the apple on the plate
+answer("plate apple")
