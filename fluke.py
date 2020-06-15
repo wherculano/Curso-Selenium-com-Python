@@ -16,3 +16,6 @@ sleep(2)
 
 #1 Select the plates
 answer(chrome, "plate")
+
+#2 Select the bento boxes
+answer(chrome, "bento")
