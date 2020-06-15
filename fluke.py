@@ -40,3 +40,6 @@ answer(chrome,"bento orange.small")
 
 #9 Select all the plates and bentos
 answer(chrome,"plate, bento")
+
+#10 Select all the things!
+answer(chrome,"*")
