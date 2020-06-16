@@ -89,3 +89,6 @@ answer(chrome, "orange:last-of-type, apple:last-of-type")
 
 #25 Select the empty bentos
 answer(chrome, "bento:empty")
+
+#26 Select the big apples
+answer(chrome, "apple:not(.small)")
