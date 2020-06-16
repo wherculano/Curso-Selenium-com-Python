@@ -62,3 +62,6 @@ answer(chrome,"orange:first-child")
 
 #16 Select the apple and the pickle on the plates
 answer(chrome,"plate apple:only-child, plate pickle:only-child")
+
+#17 Select the small apple and the pickle
+answer(chrome,"apple:only-child, pickle.small")
