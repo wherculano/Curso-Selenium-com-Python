@@ -80,3 +80,6 @@ answer(chrome,"plate:nth-of-type(even)")
 
 #22 Select every 2nd plate, starting from the 3rd
 answer(chrome, "plate:nth-of-type(2n+3)")
+
+#23 Select the apple on the middle plate
+answer(chrome, "plate apple.small:only-of-type")
