@@ -101,3 +101,7 @@ answer(chrome, "plate[for]")
 
 #29 Select Vitaly's meal
 answer(chrome, "[for='Vitaly']")
+
+#30 Select the items for names that start with 'Sa'
+# O correto seria *[for^='Sa']
+answer(chrome, "[for='Sarah'], [for='Sam']")
