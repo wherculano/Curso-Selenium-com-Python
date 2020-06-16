@@ -105,3 +105,6 @@ answer(chrome, "[for='Vitaly']")
 #30 Select the items for names that start with 'Sa'
 # O correto seria *[for^='Sa']
 answer(chrome, "[for='Sarah'], [for='Sam']")
+
+#31 Select the items for names that end with 'ato'
+answer(chrome, "*[for$='ato']")
