@@ -95,3 +95,6 @@ answer(chrome, "apple:not(.small)")
 
 #27 Select the items for someone
 answer(chrome, "*[for]")
+
+#28 Select the plates for someone
+answer(chrome, "plate[for]")
