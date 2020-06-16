@@ -59,3 +59,6 @@ answer(chrome,"plate > apple")
 
 #15 Select the top orange
 answer(chrome,"orange:first-child")
+
+#16 Select the apple and the pickle on the plates
+answer(chrome,"plate apple:only-child, plate pickle:only-child")
