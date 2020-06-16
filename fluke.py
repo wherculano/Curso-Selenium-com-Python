@@ -24,7 +24,7 @@ answer(chrome, "bento")
 answer(chrome, "#fancy")
 
 #4 Select the apple on the plate
-answer("plate apple")
+answer(chrome,"plate apple")
 
 #5 Select the pickle on the fancy plate
 answer(chrome,"#fancy pickle" )
@@ -49,3 +49,7 @@ answer(chrome,"plate *")
 
 #12 Select every apple that's next to a plate
 answer(chrome,"plate + apple")
+
+#13 Select the pickles beside the bento
+# O correto seria "bento ~ pickle", mas o input não reconheceu o ~ 
+answer(chrome,"bento + pickle.small, pickle.small + pickle")
