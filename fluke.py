@@ -77,3 +77,6 @@ answer(chrome,"apple:first-of-type")
 
 #21 Select all even plates
 answer(chrome,"plate:nth-of-type(even)")
+
+#22 Select every 2nd plate, starting from the 3rd
+answer(chrome, "plate:nth-of-type(2n+3)")
