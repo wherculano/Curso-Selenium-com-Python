@@ -68,3 +68,6 @@ answer(chrome,"apple:only-child, pickle.small")
 
 #18 Select the 3rd plate
 answer(chrome,"plate:nth-child(3)")
+
+#19 Select the 1st bento
+answer(chrome,"bento:nth-last-child(3)")
