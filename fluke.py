@@ -98,3 +98,6 @@ answer(chrome, "*[for]")
 
 #28 Select the plates for someone
 answer(chrome, "plate[for]")
+
+#29 Select Vitaly's meal
+answer(chrome, "[for='Vitaly']")
