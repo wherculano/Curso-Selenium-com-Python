@@ -74,3 +74,6 @@ answer(chrome,"bento:nth-last-child(3)")
 
 #20 Select first apple
 answer(chrome,"apple:first-of-type")
+
+#21 Select all even plates
+answer(chrome,"plate:nth-of-type(even)")
