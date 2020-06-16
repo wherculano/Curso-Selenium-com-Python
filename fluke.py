@@ -71,3 +71,6 @@ answer(chrome,"plate:nth-child(3)")
 
 #19 Select the 1st bento
 answer(chrome,"bento:nth-last-child(3)")
+
+#20 Select first apple
+answer(chrome,"apple:first-of-type")
