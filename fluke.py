@@ -56,3 +56,6 @@ answer(chrome,"bento + pickle.small, pickle.small + pickle")
 
 #14 Select the apple directly on a plate
 answer(chrome,"plate > apple")
+
+#15 Select the top orange
+answer(chrome,"orange:first-child")
