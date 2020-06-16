@@ -86,3 +86,6 @@ answer(chrome, "plate apple.small:only-of-type")
 
 #24 Select the last apple and orange
 answer(chrome, "orange:last-of-type, apple:last-of-type")
+
+#25 Select the empty bentos
+answer(chrome, "bento:empty")
