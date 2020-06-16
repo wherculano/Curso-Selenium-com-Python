@@ -92,3 +92,6 @@ answer(chrome, "bento:empty")
 
 #26 Select the big apples
 answer(chrome, "apple:not(.small)")
+
+#27 Select the items for someone
+answer(chrome, "*[for]")
