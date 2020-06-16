@@ -83,3 +83,6 @@ answer(chrome, "plate:nth-of-type(2n+3)")
 
 #23 Select the apple on the middle plate
 answer(chrome, "plate apple.small:only-of-type")
+
+#24 Select the last apple and orange
+answer(chrome, "orange:last-of-type, apple:last-of-type")
